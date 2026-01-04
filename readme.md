@@ -17,3 +17,6 @@ aisuggestion
 
 请使用android studio 进行编译
 暂时没有在vscode上尝试过，不太熟悉
+
+有疑问的可以发邮件
+3098166515@qq.com
