@@ -15,3 +15,5 @@ aisuggestion
 
 等考完试我们会来完善这个部分
 
+请使用android studio 进行编译
+暂时没有在vscode上尝试过，不太熟悉
